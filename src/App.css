@@ -61,3 +61,14 @@
 h4{
   margin-top: 20px;
 }
+.about{
+  text-align: center;
+  margin-top: 10px;
+}
+.accordion{
+  width: 50%;
+  display: block;
+  margin: auto;
+  border: 2px solid ;
+  margin-top: 12px;
+}

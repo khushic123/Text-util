@@ -77,7 +77,7 @@ function App() {
      <Alert alert={alert} />
      <Switch>
           <Route path="/about">
-            <About />
+            <About mode={mode}/>
           </Route>
           <Route path="/">
           <Textform heading="Analyze your text" mode={mode} showalert={showalert}/>

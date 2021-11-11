@@ -37,7 +37,7 @@ function Text(props){
                 props.showalert('text copied and cleared:','success')
         };
 
-    const [text,setText]=useState('ENTER YOUR TEXT HERE');
+    const [text,setText]=useState('');
     const [text1,setText1]=useState('');
     return (
         <>
