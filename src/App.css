@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.blank{
+  color: #61dafb;
+}
+
+.form-control{
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+.mb-3{
+  margin-top: 2%;
+  text-align: center;
+   font-size: xx-large;
+}
+.btn{
+  margin-left: 20px;
+}
+.form1{
+  margin-top: 20px;
+}
+
+h4{
+  margin-top: 20px;
+}
